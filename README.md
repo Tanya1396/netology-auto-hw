@@ -1,5 +1,6 @@
 # netology-auto-hw
 Тест сервиса CashBack
+
 Рассмотрены два тестовых случая: 
 ```
 shouldReturnValidCashBack() - проверка, что метод remain() возвращает сумму для допокупки при валидном amount
